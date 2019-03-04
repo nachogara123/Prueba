@@ -3,10 +3,10 @@
     <img src="./assets/logo.png">
     <h1>{{ msg }}</h1>
     <h2>{{ msg2 }}</h2>
-    <h3>{{ msg3 }}</h3>
-    <h4>{{ msg4 }}</h4>
-    <h5>{{ msg5 }}</h5>
-    <h6>{{ msg5 }}</h6>
+   
+
+
+
     <h2>Essential Links</h2>
     <ul>
       <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
@@ -30,10 +30,10 @@ export default {
   data () {
     return {
       msg: 'Mira este es un mensaje de prueba para desarrollar',
-      msg2: 'Mañana voy a hacer la wea del landing desde 0',
-      msg3:'Me tengo que picar a choro, a lo vio',
-      msg4: 'Vida qla',
-      msg5: 'Quiero Ganar plata, por la chucha'
+      msg2: 'Mañana voy a hacer todo el spa desde 0'
+
+
+
     }
 }}
 </script>
@@ -50,7 +50,7 @@ export default {
 
 h1, h2 {
   font-weight: normal;
-}
+
 
 ul {
   list-style-type: none;
