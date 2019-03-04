@@ -64,6 +64,7 @@ li {
 
 a {
   color: #334b40;
+  margin: 0fr;
 }
 a:hover {
   color: #cf1111;
